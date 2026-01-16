@@ -51,10 +51,10 @@ The screenshots below demonstrate the configuration approach used within cPanel.
 All images have been cropped to remove client-identifying information.
 
 ### Global Email Filtering (SpamAssassin)
-![Global Email Filter](3.jpg)
+![Global Email Filter](images/3.jpg)
 
 ### Targeted Spam Blacklist
-![Spam Blacklist](4.jpeg)
+![Spam Blacklist](images/4.jpeg)
 
 ---
 
